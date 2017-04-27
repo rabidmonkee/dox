@@ -1,0 +1,42 @@
+Brad Garner's Web Development Skillset
+(ranked top to bottom)
+
+10 = Expert
+5 = Some Familiarity
+1 = Needs Training
+
+=>	HTML 				10
+=>	CSS					10
+=>	Sass				9
+=>	jQuery				7
+=> 	Vanilla JS			6
+=> 	ES6 JS				6
+=> 	C# (Razor .NET)		6
+=> 	Git					6
+=> 	Node.js				5
+=>	NPM					5
+=>	Foundation			5
+=>	React.js			4
+=>	React Native		4
+=>	Bootstrap			4
+=>	Wordpress			4
+=>	PHP					3
+=>	Ruby				2
+
+Software
+
+=>	Sublime Text		10
+=>	Atom				9
+=>	Photoshop			8
+=>	Tortoise SVN		8
+=>	Windows XP-10		8
+=>	Linux (many dists)	7
+=>	iOS 10.x			7
+=> 	Illustrator			7
+=>	MS Office			7
+=>	Apache Open Office	7
+=> 	MS Visual Studio	7
+=>	Premiere Pro		6
+=>	Audition			6
+=>	Apache server		3
+=> 	Android Studio		3
