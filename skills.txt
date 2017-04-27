@@ -12,7 +12,7 @@ Brad Garner's Web Development Skillset
 => 	Vanilla JS			6
 => 	ES6 JS				6
 => 	C# (Razor .NET)		6
-=> 	Git					6
+=> 	Git	(web and cli)	6
 => 	Node.js				5
 =>	NPM					5
 =>	Foundation			5
