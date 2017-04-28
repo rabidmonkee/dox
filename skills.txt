@@ -12,7 +12,7 @@ Brad Garner's Web Development Skillset
 6 => 	Vanilla JS
 6 => 	ES6 JS
 6 => 	C# (Razor .NET)
-6 => 	Git	(web and cli)
+6 => 	Git (web and cli)
 5 => 	Node.js
 5 =>	NPM
 5 =>	Foundation
@@ -40,3 +40,12 @@ Software Knowledge
 6 =>	Audition
 3 =>	Apache server
 3 => 	Android Studio
+
+Websites
+
+www.rabidmonkee.com == Foundation testbed - Design and Implementation
+www.selectpestcontrolaz.com == Wordpress - Design and Implementation
+
+https://bankingreimagined.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
+http://firstbratscontest.prizelogic.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
+http://biggestbirthdayeversweeps.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
