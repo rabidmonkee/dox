@@ -1,4 +1,6 @@
-Brad Garner's Web Development Skillset
+Brad Garner
+
+FRONT END WEB DEV SKILLS
 (ranked top to bottom)
 
 10 = Expert
@@ -23,7 +25,7 @@ Brad Garner's Web Development Skillset
 3 =>	PHP
 2 =>	Ruby
 
-Software Knowledge
+SOFTWARE SKILLS
 
 10 =>	Sublime Text
 9 =>	Atom
@@ -41,7 +43,7 @@ Software Knowledge
 3 =>	Apache server
 3 => 	Android Studio
 
-Websites
+SITES
 
 www.rabidmonkee.com == Foundation testbed - Design and Implementation
 www.selectpestcontrolaz.com == Wordpress - Design and Implementation
@@ -49,3 +51,37 @@ www.selectpestcontrolaz.com == Wordpress - Design and Implementation
 https://bankingreimagined.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
 http://firstbratscontest.prizelogic.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
 http://biggestbirthdayeversweeps.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
+
+XP
+
+12/2013 - Current
+	PrizeLogic
+	Front-End Interactive Developer
+
+1/2013 - 12/2013
+	Corpedia
+	Front-End Front-End Developer
+
+1/2005 - 9/2007
+	Fitness Insite
+	Front-End Developer / Customer Support
+
+5/2005 - 3/2010
+	Brad Garner Photography
+	Self-Employed
+
+SCHOOL
+
+5/2012 - 11/2012
+	Maricopa Community College
+	Web Development Certification Program
+
+11/2000 - 5/2001
+	Collins College
+	AA of Arts in Visual Communication - Digital Multi-Media Production
+
+Previous Life
+
+5/1992 - 5/2000
+	USAF - E5
+	Air Transportation Specialist
