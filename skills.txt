@@ -23,7 +23,7 @@ Brad Garner's Web Development Skillset
 =>	PHP					3
 =>	Ruby				2
 
-Software
+Software Knowledge
 
 =>	Sublime Text		10
 =>	Atom				9
