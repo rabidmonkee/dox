@@ -5,8 +5,8 @@ Brad Garner's Web Development Skillset
 5 = Some Familiarity
 1 = Needs Training
 
-10 =>	HTML
-10 =>	CSS
+10 =>	HTML5
+10 =>	CSS3
 9 =>	Sass
 7 =>	jQuery
 6 => 	Vanilla JS
