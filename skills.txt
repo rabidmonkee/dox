@@ -11,6 +11,7 @@ FRONT END WEB DEV SKILLS
 10 =>	CSS3
 9 =>	Sass
 7 =>	jQuery
+7 =>	Flexbox
 6 => 	Vanilla JS
 6 => 	ES6 JS
 6 => 	C# (Razor .NET)
@@ -47,7 +48,7 @@ SITES
 
 www.rabidmonkee.com == Foundation testbed - Design and Implementation
 www.selectpestcontrolaz.com == Wordpress - Design and Implementation
-
+https://weworkasone.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
 https://bankingreimagined.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
 http://firstbratscontest.prizelogic.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
 http://biggestbirthdayeversweeps.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
