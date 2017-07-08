@@ -22,6 +22,7 @@ FRONT END WEB DEV SKILLS
 4 =>	React Native
 4 =>	Bootstrap
 4 =>	Wordpress
+4 =>	AJAX
 3 =>	PHP
 2 =>	Ruby
 
