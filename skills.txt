@@ -10,24 +10,21 @@ FRONT END WEB DEV SKILLS
 10 =>	HTML5
 10 =>	CSS3
 9 =>	Sass
+8 =>	Foundation by Zurb
+8 => 	Git (web and cli)
 7 =>	jQuery
 7 =>	Flexbox
 6 => 	Vanilla JS
 6 => 	ES6 JS
 6 => 	C# (Razor .NET)
-6 => 	Git (web and cli)
 5 => 	Node.js
 5 =>	NPM
-5 =>	Foundation
 4 =>	React.js
 4 =>	React Native
 4 =>	Bootstrap
 4 =>	Wordpress
-<<<<<<< HEAD
 4 =>	AJAX
-=======
 4 =>	MySQL
->>>>>>> e3c94f18c20ad731b6a36deaf7f4f74adef77f09
 3 =>	PHP
 2 =>	Ruby
 
@@ -53,10 +50,6 @@ SITES
 
 www.rabidmonkee.com == Foundation testbed - Design and Implementation
 www.selectpestcontrolaz.com == Wordpress - Design and Implementation
-https://weworkasone.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
-https://bankingreimagined.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
-http://firstbratscontest.prizelogic.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
-http://biggestbirthdayeversweeps.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
 
 XP
 
