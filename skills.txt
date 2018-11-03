@@ -3,12 +3,12 @@ Brad Garner
 FRONT END WEB DEV SKILLS
 (ranked top to bottom)
 
-10 = Expert
+10 = Expert (I only rate to 9 as there is always something to learn)
 5 = Some Familiarity
 1 = Needs Training
 
-10 =>	HTML5
-10 =>	CSS3
+9 =>	HTML5
+9 =>	CSS3
 9 =>	Sass
 8 =>	Foundation by Zurb
 8 => 	Git (web and cli)
@@ -30,8 +30,7 @@ FRONT END WEB DEV SKILLS
 
 SOFTWARE SKILLS
 
-10 =>	Sublime Text
-9 =>	Atom
+9 =>	Sublime Text 3, Atom, VS Code, Notepad++, etc
 8 =>	Photoshop
 8 =>	Tortoise SVN
 8 =>	Windows XP-10
