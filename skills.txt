@@ -1,94 +1,3 @@
-<<<<<<< HEAD
-Brad Garner
-
-FRONT END WEB DEV SKILLS
-(ranked top to bottom)
-
-10 = Expert
-5 = Some Familiarity
-1 = Needs Training
-
-10 =>	HTML5
-10 =>	CSS3
-9 =>	Sass
-7 =>	jQuery
-7 =>	Flexbox
-6 => 	Vanilla JS
-6 => 	ES6 JS
-6 => 	C# (Razor .NET)
-6 => 	Git (web and cli)
-5 => 	Node.js
-5 =>	NPM
-5 =>	Foundation
-4 =>	React.js
-4 =>	React Native
-4 =>	Bootstrap
-4 =>	Wordpress
-4 =>	MySQL
-3 =>	PHP
-2 =>	Ruby
-
-SOFTWARE SKILLS
-
-10 =>	Sublime Text
-9 =>	Atom
-8 =>	Photoshop
-8 =>	Tortoise SVN
-8 =>	Windows XP-10
-7 =>	Linux (many distros)
-7 =>	iOS 10.x
-7 => 	Illustrator
-7 =>	MS Office
-7 =>	Apache Open Office
-7 => 	MS Visual Studio
-6 =>	Premiere Pro
-6 =>	Audition
-3 =>	Apache server
-3 => 	Android Studio
-
-SITES
-
-www.rabidmonkee.com == Foundation testbed - Design and Implementation
-www.selectpestcontrolaz.com == Wordpress - Design and Implementation
-https://weworkasone.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
-https://bankingreimagined.capitalone.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
-http://firstbratscontest.prizelogic.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
-http://biggestbirthdayeversweeps.com/ - HTML/CSS/jQuery Implementation - Desktop and Mobile
-
-XP
-
-12/2013 - Current
-	PrizeLogic
-	Front-End Interactive Developer
-
-1/2013 - 12/2013
-	Corpedia
-	Front-End Front-End Developer
-
-1/2005 - 9/2007
-	Fitness Insite
-	Front-End Developer / Customer Support
-
-5/2005 - 3/2010
-	Brad Garner Photography
-	Self-Employed
-
-SCHOOL
-
-5/2012 - 11/2012
-	Maricopa Community College
-	Web Development Certification Program
-
-11/2000 - 5/2001
-	Collins College
-	AA of Arts in Visual Communication - Digital Multi-Media Production
-
-Previous Life
-
-5/1992 - 5/2000
-	USAF - E5
-	Air Transportation Specialist
-=======
 Brad Garner
 
 FRONT END WEB DEV SKILLS
@@ -102,7 +11,7 @@ FRONT END WEB DEV SKILLS
 9 =>	CSS3
 9 =>	Sass
 8 =>	Foundation by Zurb
-8 => 	Git (web and cli)
+7 => 	Git (web and cli)
 7 =>	jQuery
 7 =>	Flexbox
 6 => 	Vanilla JS
@@ -174,4 +83,3 @@ Previous Life
 5/1992 - 5/2000
 	USAF - E5
 	Air Transportation Specialist
->>>>>>> bae7afe937db3c249f912f0a403270b0e48d9c25
