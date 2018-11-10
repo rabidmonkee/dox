@@ -23,11 +23,7 @@ FRONT END WEB DEV SKILLS
 4 =>	React Native
 4 =>	Bootstrap
 4 =>	Wordpress
-<<<<<<< HEAD
-4 =>	AJAX
-=======
 4 =>	MySQL
->>>>>>> e3c94f18c20ad731b6a36deaf7f4f74adef77f09
 3 =>	PHP
 2 =>	Ruby
 
