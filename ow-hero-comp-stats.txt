@@ -1,0 +1,14 @@
+RabidMonkee#11704:
+	S15: 1040
+	S16: 1020
+	Current: 774
+
+Comixx#11721: 
+	S15: 1558
+	S16: 1405
+	Current: 1405
+
+BipolarDad#11422:
+	S15: NR
+	S16: 1485
+	Current: 1485
