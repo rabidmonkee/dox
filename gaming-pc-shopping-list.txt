@@ -1,7 +1,7 @@
 $200 - Acer XFA240 (144hz monitor)
 $130 - Gigabyte B450 Aorus Pro WiFi (Mobo w/wifi)
 $105 - WD BLACK SN750 500GB NVMe PCIe M.2 2280 WDS500G3X0C (SSD)
-$91 - Ballistix 2x8GB Sport LT DDR4-2666 SR (RAM)
+$100 - G.SKILL 16GB (2 x 8GB) Ripjaws V Series DDR4 PC4-25600 3200MHz Desktop (RAM)
 $55 - Thermaltake Smart DPS G 500W (Semi-modular power supply) 
 $55 - WD Blue 2TB PC Hard Drive - 5400 RPM Class, SATA 6 Gb/s, 64 MB Cache, 3.5" - WD20EZRZ 
 $32 - Microsoft Windows 10 Pro - 3rd party license seller (OS)
