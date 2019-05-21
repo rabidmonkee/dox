@@ -3,47 +3,61 @@ Epic 7 Heroes
 ==========================
 BipolarDad73
 ==========================
+
+MAIN TEAM
+50 Charles
+50 Sol
+50 Iseria
+50 Angelica
+
 *****
-Sol
-Charles
-Iseria
-Vildred
+50 Sol
+50 Charles
+50 Iseria
+41 Vildred
+50 Angelica
+50 Lots
 
 ****
-Coli
-Lots
-Mercedes
-Zerato
+09 Rin
+15 Cidd
+40 Mercedes
+38 Silk
+40 Kiris
+40 Hazel
+40 Lorina
+35 Aither
 
 ***
-Kiris
-Aither
-Ras
-Rima
-Jecht
-Montmorance
-Hazel
-Helga
-Alexa
+30 Ras
 
 ==========================
 RabidMonkee
 ==========================
+
+MAIN TEAM
+40 Sol
+37 Krau
+44 Aither
+47 Aramintha
+
 *****
-Aramintha
+40 Sol
+37 Krau
+47 Aramintha
+44 Aither
+
 
 ****
-Crozet
-Mercedes
-
+28 Angelica
+40 Crozet
+21 Mercedes
 
 ***
-Carmainerose
-Kiris
-Nemunas
-Carrot
-Azalea
-Helga
-Tiera
-Aither
-Ras
+23 Carmainerose
+07 Kiris
+24 Montmorancy
+25 Hazel
+29 Tieria
+05 Kluri
+23 Ras
